@@ -1,12 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
-import { Paragraph } from './components/Paragraph';
+import { Calculator } from './components/Calculator';
 
 function App() {
   return (
     <div>
-      <h2 style={{color:"red"}}>React-Task-1</h2>
-      <Paragraph />
+      <h2 style={{color:"red"}}>React-task-5</h2>
+      <Calculator />
     </div>
   );
 }
